@@ -1,3 +1,54 @@
+footer {
+  text-align: center;
+  font-size: 16px;
+  font-weight: 250;
+}
+
+ul {
+  list-style: none;
+}
 h1 {
-     color: blue;
+  text-align: center;
+  font-family: "Hachi Maru Pop", cursive;
+}
+.form {
+  margin: 20px auto;
+  color: #000000;
+  border-radius: 8px;
+  text-align: center;
+  margin-top: 50px;
+  padding: 10px 15px;
+  border-color: #b200ff;
+  font-size: 20px;
+}
+.city-input {
+  color: #fc8c58;
+  background-color: #ffffff;
+  border-radius: 8px;
+  padding: 10px 15px;
+  font-size: 20px;
+}
+.card {
+  margin: 60px;
+  background-image: linear-gradient(to top, #fad0c4 0%, #ffd1ff 100%);
+  padding: 50px;
+}
+.col {
+  font-size: 25px;
+  font-weight: bold;
+}
+.weather-details {
+  font-size: 20px;
+  opacity: 0.7;
+}
+.degrees-details {
+  text-align: right;
+  font-size: 20px;
+  opacity: 0.7;
+}
+.col-2 {
+  font-size: 24px;
+  text-align: center;
+  font-family: "Hachi Maru Pop", cursive;
+  font-weight: bolder;
 }
